@@ -3,3 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+a{
+    text-decoration: none;
+}
+
+.widh-500{
+    width: 100%;
+}
+.img-sfondo{
+    background-image:url(../img/jumbo.png);
+    background-size: 100%;
+    background-position: 100%;
+}
