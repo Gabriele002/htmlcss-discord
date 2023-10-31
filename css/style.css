@@ -16,3 +16,25 @@ a{
     background-size: 100%;
     background-position: 100%;
 }
+.bg-grey{
+    background-color: #ece4e4;
+}
+.tx-center{
+    text-align: center;
+}
+
+.img-sfondo1{
+    background-image:url(../img/stars.svg);
+    background-position: 50%;
+    background-size: 45%;
+    
+}
+.noline{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.footer.main{
+    width: 80%;
+    margin-left: 100px; 
+}
